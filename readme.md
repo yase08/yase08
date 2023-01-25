@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **ayasbogor@gmail.com**
 
-- ⚡ Fun fact **I am a person who wants to know new things**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayasy_insan_aulia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayasy_insan_aulia" height="30" width="40" /></a>
