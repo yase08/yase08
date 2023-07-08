@@ -1,6 +1,5 @@
+- Hi 👋, I'm Ayas
 - 🌱 I’m currently learning **Javascript**
-
-
 - 📫 How to reach me **ayasyinsanaulia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
